@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E458FC62-FBCA-4E39-8911-97779FB29A42</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LogoReveal</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>45423455-d734-84c4-dd59-ce57b7db7bff</key>
+		<string>https://github.com/ShyHornet/LogoReveal.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>branches/final/LogoReveal.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>45423455-d734-84c4-dd59-ce57b7db7bff</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>45423455-d734-84c4-dd59-ce57b7db7bff</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>45423455-d734-84c4-dd59-ce57b7db7bff</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LogoReveal.git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
