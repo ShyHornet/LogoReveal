@@ -18,7 +18,7 @@ class MasterViewController: UIViewController {
   
     override func viewDidAppear(animated: Bool) {
         super.viewDidAppear(animated)
-        
+         navigationController?.delegate = self
         //添加手势识别器
         let tap = UITapGestureRecognizer(target: self, action: Selector("didTap"))
         view.addGestureRecognizer(tap)
@@ -34,6 +34,9 @@ class MasterViewController: UIViewController {
     //
     // 手势识别器的触发方法
     //
+    func didTap() {
+        performSegueWithIdentifier("details", sender: nil)
+    }
   
 }
 extension MasterViewController:UINavigationControllerDelegate{

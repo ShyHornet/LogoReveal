@@ -18,9 +18,10 @@ class DetailViewController: UITableViewController, UINavigationControllerDelegat
   }
   
   override func viewDidAppear(animated: Bool) {
+
     super.viewDidAppear(animated)
-    view.layer.mask = nil
     
+       view.layer.mask = nil
     
   }
   
