@@ -9,7 +9,7 @@ class DetailViewController: UITableViewController, UINavigationControllerDelegat
   
   override func viewDidLoad() {
     super.viewDidLoad()
-   maskLayer.position = CGPoint(x: view.layer.bounds.size.width/2, y: view.layer.bounds.size.height/2)
+
     
     title = "Pack List"
     tableView.rowHeight = 54.0
